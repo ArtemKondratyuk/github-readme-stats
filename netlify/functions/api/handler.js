@@ -1,5 +1,5 @@
 // netlify/function/api/hendler.js
-const { createServer } = require('../../api'); // Подключение главного приложения из репозитория
+const { createServer } = require('./createServer'); // Подключение главного приложения из репозитория
 
 
 exports.handler = async (event) => {
