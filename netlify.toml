@@ -3,5 +3,5 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/api/heanler"  
+  to = "/.netlify/functions/api/handler"  
   status = 200
